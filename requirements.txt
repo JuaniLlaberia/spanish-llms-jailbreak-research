@@ -1,0 +1,14 @@
+scikit-learn
+pandas
+matplotlib
+seaborn
+statsmodels
+pyzipper
+pydantic
+openai
+langdetect
+anthropic
+transformers
+accelerate
+bitsandbytes
+tqdm
