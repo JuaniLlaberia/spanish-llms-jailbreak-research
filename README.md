@@ -5,7 +5,7 @@
 
 ## Paper
 
-[Paper Link](https://example.com/paper)
+[Paper Link](https://openreview.net/forum?id=qUiN68s7ot)
 
 ## Description
 
